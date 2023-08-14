@@ -1,4 +1,4 @@
-# ProjetoFETEPS_2024
+# Projeto App FETEPS_2024
 
 Feira Tecnológica do Centro Paula Souza
 
