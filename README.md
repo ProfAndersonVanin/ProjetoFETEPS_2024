@@ -6,7 +6,13 @@ Estrutura do projeto para o aplicativo da FETEPS 2024 que deve ser desenvolvido 
 
 [FETEPS VOLTA A SER PRESENCIAL](https://www.cps.sp.gov.br/feira-tecnologica-do-centro-paula-souza-volta-a-ser-presencial/ "15ª FETEPS - 2024")
 
-
+### CALENDÁRIO
+- 17/08/2023	Lançamento
+- 01/09 - 31/10/2023	Submissão dos Projetos
+- 16/10 - 30/11/2023	Avaliação dos Projetos
+- 12/12/2023	Divulgação dos Finalistas
+- Fev/2024	Organização das Caravanas
+- à confirmar	Evento: 15º FETEPS (presencial)
 
 ## Este projeto será orientado pelos professores:
 - Anderson Silva Vanin :rocket:
