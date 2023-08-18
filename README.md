@@ -4,6 +4,10 @@ Feira Tecnológica do Centro Paula Souza
 
 Estrutura do projeto para o aplicativo da FETEPS 2024 que deve ser desenvolvido pelos alunos do 1º, 2º e 3º ano do curso de Informática para Internet da Etec Profª Maria Cristina Medeiros (Ribeirão Pires - SP).
 
+[FETEPS VOLTA A SER PRESENCIAL](https://www.cps.sp.gov.br/feira-tecnologica-do-centro-paula-souza-volta-a-ser-presencial/ "15ª FETEPS - 2024")
+
+
+
 ## Este projeto será orientado pelos professores:
 - Anderson Silva Vanin :rocket:
   
